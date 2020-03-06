@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <time.h>
 #include <pthread.h>
-#define numThreads 16
+#define numThreads 1
 
 long cantidadIntervalos = 1000000000;
 double baseIntervalo;
